@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Natural language processing with Node.js](https://sevic.dev/nlp-classifier-node/)
+- [Obstacles encountered in the Messenger chatbot development](https://sevic.dev/messenger-chatbot-development/)
 <!-- BLOG-POST-LIST:END -->

@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Caching with service worker and Workbox](https://sevic.dev/caching-service-worker-workbox/)
 - [Migrating from CRA (create-react-app) to Next.js](https://sevic.dev/cra-to-nextjs/)
 - [Natural language processing with Node.js](https://sevic.dev/nlp-classifier-node/)
 - [Obstacles encountered in the Messenger chatbot development](https://sevic.dev/messenger-chatbot-development/)

@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing npm packages to multiple registries with Github actions](https://sevic.dev/npm-publish-github-actions/)
 - [Caching with service worker and Workbox](https://sevic.dev/caching-service-worker-workbox/)
 - [Migrating from CRA (create-react-app) to Next.js](https://sevic.dev/cra-to-nextjs/)
 - [Natural language processing with Node.js](https://sevic.dev/nlp-classifier-node/)

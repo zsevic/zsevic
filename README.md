@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Server-Sent Events 101](https://sevic.dev/sse-101/)
+- [Server-Sent Events 101](https://sevic.dev/notes/sse-101/)
 - [Publishing npm packages to multiple registries with Github actions](https://sevic.dev/npm-publish-github-actions/)
 - [Caching with service worker and Workbox](https://sevic.dev/caching-service-worker-workbox/)
 - [Migrating from CRA (create-react-app) to Next.js](https://sevic.dev/cra-to-nextjs/)

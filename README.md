@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Postgres container service for e2e tests in Github actions](https://sevic.dev/notes/postgres-github-actions/)
 - [Testing custom repositories (NestJS/TypeORM)](https://sevic.dev/notes/testing-custom-repositories/)
 - [Spies and mocking with Jest](https://sevic.dev/notes/spies-mocking-jest/)
 - [Server-Sent Events 101](https://sevic.dev/notes/sse-101/)
 - [Publishing npm packages to multiple registries with Github actions](https://sevic.dev/npm-publish-github-actions/)
-- [Caching with service worker and Workbox](https://sevic.dev/caching-service-worker-workbox/)
 <!-- BLOG-POST-LIST:END -->

@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor-based iteration with Mongoose](https://sevic.dev/notes/cursor-mongoose/)
 - [Redis as custom storage for NestJS rate limiter](https://sevic.dev/notes/redis-nestjs-throttler/)
 - [Postgres and Redis container services for e2e tests in Github actions](https://sevic.dev/notes/postgres-redis-github-actions/)
 - [Testing custom repositories &lpar;NestJS/TypeORM&rpar;](https://sevic.dev/notes/testing-custom-repositories/)
 - [Spies and mocking with Jest](https://sevic.dev/notes/spies-mocking-jest/)
-- [Server-Sent Events 101](https://sevic.dev/notes/sse-101/)
 <!-- BLOG-POST-LIST:END -->

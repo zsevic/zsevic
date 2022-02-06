@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Next.js app with Google analytics 4](https://sevic.dev/nextjs-google-analytics-4/)
+- [Integrating Next.js app with Google analytics 4](https://sevic.dev/notes/nextjs-google-analytics-4/)
 - [Cursor-based iteration with Mongoose](https://sevic.dev/notes/cursor-mongoose/)
 - [Redis as custom storage for NestJS rate limiter](https://sevic.dev/notes/redis-nestjs-throttler/)
 - [Postgres and Redis container services for e2e tests in Github actions](https://sevic.dev/notes/postgres-redis-github-actions/)

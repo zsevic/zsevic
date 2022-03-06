@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js app in production](https://sevic.dev/notes/nextjs-production/)
 - [Progressive Web Apps 101](https://sevic.dev/notes/pwa-101/)
 - [Integrating Next.js app with Google analytics 4](https://sevic.dev/notes/nextjs-google-analytics-4/)
 - [Automate finding apartment for rent or sale](https://sevic.dev/automate-finding-apartment/)
 - [Cursor-based iteration with Mongoose](https://sevic.dev/notes/cursor-mongoose/)
-- [Redis as custom storage for NestJS rate limiter](https://sevic.dev/notes/redis-nestjs-throttler/)
 <!-- BLOG-POST-LIST:END -->

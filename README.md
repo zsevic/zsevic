@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending emails locally](https://sevic.dev/notes/emails-locally/)
 - [Chronoblog &lpar;Gatsby&rpar; theme with RSS feed](https://sevic.dev/notes/chronoblog-gatsby-rss/)
 - [Next.js app in production](https://sevic.dev/notes/nextjs-production/)
 - [Progressive Web Apps 101](https://sevic.dev/notes/pwa-101/)
 - [Integrating Next.js app with Google analytics 4](https://sevic.dev/notes/nextjs-google-analytics-4/)
-- [Automate finding apartment for rent or sale](https://sevic.dev/automate-finding-apartment/)
 <!-- BLOG-POST-LIST:END -->

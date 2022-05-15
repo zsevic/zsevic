@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [State management with Next.js and React](https://sevic.dev/notes/state-management-nextjs-react/)
 - [JSON logging bash scripts](https://sevic.dev/notes/bash-script-json-logging/)
 - [Sending emails locally](https://sevic.dev/notes/emails-locally/)
 - [Chronoblog &lpar;Gatsby&rpar; theme with RSS feed](https://sevic.dev/notes/chronoblog-gatsby-rss/)
 - [Next.js app in production](https://sevic.dev/notes/nextjs-production/)
-- [Progressive Web Apps 101](https://sevic.dev/notes/pwa-101/)
 <!-- BLOG-POST-LIST:END -->

@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Documenting JavaScript code with JSDoc](https://sevic.dev/notes/javascript-jsdoc/)
 - [Deploying Node.js apps to Fly.io](https://sevic.dev/nodejs-deployment-flyio/)
 - [Android app development with React Native](https://sevic.dev/react-native-android-app/)
 - [Telegram bots with Node.js](https://sevic.dev/telegram-bots-nodejs/)
 - [Timeout with Fetch API](https://sevic.dev/notes/timeout-fetch/)
-- [Splash screen with React Native](https://sevic.dev/notes/splash-screen-react-native/)
 <!-- BLOG-POST-LIST:END -->
 
 :moneybag: Liked any of my personal projects/posts? You can support me here [![paypal.me/zsevic](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/zsevic)

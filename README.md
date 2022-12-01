@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeORM/NestJS examples](https://sevic.dev/notes/typeorm-nestjs-examples/)
+- [TypeORM with NestJS](https://sevic.dev/notes/typeorm-nestjs-examples/)
 - [Gatsby blog as PWA &lpar;Progressive Web App&rpar;](https://sevic.dev/notes/gatsby-blog-pwa/)
 - [Documenting JavaScript code with JSDoc](https://sevic.dev/notes/javascript-jsdoc/)
 - [Deploying Node.js apps to Fly.io](https://sevic.dev/nodejs-deployment-flyio/)

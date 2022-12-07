@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - [Sending emails locally](https://sevic.dev/notes/emails-locally/)
 - [Chronoblog &lpar;Gatsby&rpar; theme with RSS feed](https://sevic.dev/notes/chronoblog-gatsby-rss/)
 <!-- BLOG-POST-LIST:END -->
-
-:moneybag: Liked any of my personal projects/posts? You can support me here [![paypal.me/zsevic](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/zsevic)

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Node.js apps in Visual Studio Code](https://sevic.dev/notes/debugging-nodejs-vscode/)
+- [Debugging Node.js apps with Visual Studio Code debugger](https://sevic.dev/notes/debugging-nodejs-vscode/)
 - [Live coding preparation tips](https://sevic.dev/notes/live-coding-interviews/)
 - [TypeORM with NestJS](https://sevic.dev/notes/typeorm-nestjs-examples/)
 - [Gatsby blog as PWA &lpar;Progressive Web App&rpar;](https://sevic.dev/notes/gatsby-blog-pwa/)

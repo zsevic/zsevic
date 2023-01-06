@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Git cheatsheet](https://sevic.dev/notes/git-cheatsheet/)
 - [Debugging Node.js apps with Visual Studio Code debugger](https://sevic.dev/notes/debugging-nodejs-vscode/)
 - [Preparation tips for live-coding interviews](https://sevic.dev/notes/live-coding-interviews/)
 - [TypeORM with NestJS](https://sevic.dev/notes/typeorm-nestjs-examples/)
 - [Gatsby blog as PWA &lpar;Progressive Web App&rpar;](https://sevic.dev/notes/gatsby-blog-pwa/)
-- [Documenting JavaScript code with JSDoc](https://sevic.dev/notes/javascript-jsdoc/)
 <!-- BLOG-POST-LIST:END -->

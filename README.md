@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Node.js apps to Heroku](https://sevic.dev/nodejs-deployment-heroku/)
 - [Markdown overview](https://sevic.dev/notes/markdown-overview/)
 - [Git cheatsheet](https://sevic.dev/notes/git-cheatsheet/)
 - [Debugging Node.js apps with Visual Studio Code debugger](https://sevic.dev/notes/debugging-nodejs-vscode/)
 - [Preparation tips for live-coding interviews](https://sevic.dev/notes/live-coding-interviews/)
-- [TypeORM with NestJS](https://sevic.dev/notes/typeorm-nestjs-examples/)
 <!-- BLOG-POST-LIST:END -->

@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting static websites to GitHub pages](https://sevic.dev/github-pages-hosting-deployment/)
 - [Integration testing Node.js apps](https://sevic.dev/notes/integration-testing-nodejs/)
 - [Automated captcha solver](https://sevic.dev/captcha-solver-2captcha/)
 - [Internal testing React Native Android apps](https://sevic.dev/notes/internal-testing-react-native-android/)
 - [Deploying Node.js apps to Heroku](https://sevic.dev/nodejs-deployment-heroku/)
-- [Markdown overview](https://sevic.dev/notes/markdown-overview/)
 <!-- BLOG-POST-LIST:END -->

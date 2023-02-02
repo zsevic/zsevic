@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Hosting static websites to GitHub pages](https://sevic.dev/github-pages-hosting-deployment/)
+- [Hosting static websites on GitHub pages](https://sevic.dev/github-pages-hosting-deployment/)
 - [Integration testing Node.js apps](https://sevic.dev/notes/integration-testing-nodejs/)
 - [Automated captcha solver](https://sevic.dev/captcha-solver-2captcha/)
 - [Internal testing React Native Android apps](https://sevic.dev/notes/internal-testing-react-native-android/)

@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Next.js apps to Vercel](https://sevic.dev/nextjs-deployment-vercel/)
 - [Hosting static websites on GitHub pages](https://sevic.dev/github-pages-hosting-deployment/)
 - [Integration testing Node.js apps](https://sevic.dev/notes/integration-testing-nodejs/)
 - [Automated captcha solver](https://sevic.dev/captcha-solver-2captcha/)
 - [Internal testing React Native Android apps](https://sevic.dev/notes/internal-testing-react-native-android/)
-- [Deploying Node.js apps to Heroku](https://sevic.dev/nodejs-deployment-heroku/)
 <!-- BLOG-POST-LIST:END -->

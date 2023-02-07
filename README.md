@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging practices](https://sevic.dev/notes/logging-nodejs/)
 - [Vim overview](https://sevic.dev/notes/vim-overview/)
 - [Deploying Next.js apps to Vercel](https://sevic.dev/nextjs-deployment-vercel/)
 - [Hosting static websites on GitHub pages](https://sevic.dev/github-pages-hosting-deployment/)
 - [Integration testing Node.js apps](https://sevic.dev/notes/integration-testing-nodejs/)
-- [Automated captcha solver](https://sevic.dev/captcha-solver-2captcha/)
 <!-- BLOG-POST-LIST:END -->

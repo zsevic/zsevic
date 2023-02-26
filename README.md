@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Postgres and Redis containers with Docker compose](https://sevic.dev/notes/postgres-redis-docker-compose/)
 - [GitHub actions 101](https://sevic.dev/notes/github-actions-101/)
 - [Error tracking with Sentry](https://sevic.dev/notes/alerting-sentry/)
 - [Logging practices](https://sevic.dev/notes/logging-nodejs/)
 - [Vim overview](https://sevic.dev/notes/vim-overview/)
-- [Deploying Next.js apps to Vercel](https://sevic.dev/nextjs-deployment-vercel/)
 <!-- BLOG-POST-LIST:END -->

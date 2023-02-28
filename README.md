@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.js native module functions as Promises](https://sevic.dev/notes/nodejs-native-modules-promises/)
 - [Postgres and Redis containers with Docker Compose](https://sevic.dev/notes/postgres-redis-docker-compose/)
 - [GitHub actions 101](https://sevic.dev/notes/github-actions-101/)
 - [Error tracking with Sentry](https://sevic.dev/notes/alerting-sentry/)
 - [Logging practices](https://sevic.dev/notes/logging-nodejs/)
-- [Vim overview](https://sevic.dev/notes/vim-overview/)
 <!-- BLOG-POST-LIST:END -->

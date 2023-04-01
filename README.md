@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Node.js app from Heroku to Fly.io](https://sevic.dev/notes/migration-checklist-heroku-flyio/)
 - [Integration with ChatGPT API](https://sevic.dev/notes/chatgpt-api-nodejs/)
 - [Documenting REST APIs with OpenAPI specs &lpar;NestJS/Swagger&rpar;](https://sevic.dev/notes/swagger-openapi-docs-nestjs/)
 - [Deploying Next.js apps to Netlify](https://sevic.dev/nextjs-deployment-netlify/)
 - [Node.js built-in module functions as Promises](https://sevic.dev/notes/nodejs-builtin-modules-promises/)
-- [Postgres and Redis containers with Docker Compose](https://sevic.dev/notes/postgres-redis-docker-compose/)
 <!-- BLOG-POST-LIST:END -->

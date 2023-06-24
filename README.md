@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Spies and mocking with Node test runner &lpar;node:test&rpar;](https://sevic.dev/notes/spies-mocking-node-test-runner/)
 - [Notion for developers](https://sevic.dev/notion-for-developers/)
 - [Async API documentation 101](https://sevic.dev/notes/async-api-docs/)
 - [Health checks with Terminus](https://sevic.dev/notes/healthcheck-terminus-nestjs/)
 - [Linting with Eslint](https://sevic.dev/notes/linting-eslint/)
-- [Migrating Node.js app from Heroku to Fly.io](https://sevic.dev/notes/migration-checklist-heroku-flyio/)
 <!-- BLOG-POST-LIST:END -->

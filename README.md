@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatting Node.js codebase with Prettier](https://sevic.dev/notes/formatting-prettier/)
 - [Tracing Node.js Microservices with OpenTelemetry](https://sevic.dev/notes/opentelemetry-tracing/)
 - [Streaming binary and base64 files](https://sevic.dev/notes/streaming-files/)
 - [Spies and mocking with Node test runner &lpar;node:test&rpar;](https://sevic.dev/notes/spies-mocking-node-test-runner/)
 - [Notion for developers](https://sevic.dev/notion-for-developers/)
-- [Async API documentation 101](https://sevic.dev/notes/async-api-docs/)
 <!-- BLOG-POST-LIST:END -->

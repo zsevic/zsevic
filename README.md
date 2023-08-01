@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ##### :rocket: Boilerplates
 - [NestJS starter](https://sevic.dev/nestjs-starter?ref=github)
-- [Next.js starter](https://sevic.dev/nextjs-starter?ref=github)
 - [Electron starter](https://sevic.dev/electron-starter?ref=github)
+- [Next.js starter](https://sevic.dev/nextjs-starter?ref=github)

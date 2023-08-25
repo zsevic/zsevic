@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-#### 📄 Latest articles
+#### :memo: Latest articles
 <!-- BLOG-POST-LIST:START -->
 - [cURL basics](https://sevic.dev/notes/curl-basics/)
 - [AI bulk image upscaling with Node.js](https://sevic.dev/notes/ai-bulk-image-upscale-nodejs/)

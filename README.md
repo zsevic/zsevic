@@ -2,11 +2,11 @@
 
 #### :memo: Latest articles
 <!-- BLOG-POST-LIST:START -->
+- [Integration with Notion API](https://sevic.dev/notes/notion-api-nodejs/)
 - [Upgrading React Native app to Android 13+](https://sevic.dev/notes/android-13-react-native-upgrade/)
 - [Browser automation with Puppeteer](https://sevic.dev/notes/browser-automation-puppeteer/)
 - [cURL basics](https://sevic.dev/notes/curl-basics/)
 - [AI bulk image upscaling with Node.js](https://sevic.dev/notes/ai-bulk-image-upscale-nodejs/)
-- [Publishing Electron apps to GitHub with Electron Forge](https://sevic.dev/notes/electron-forge-publish-github/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛠️ Ready-to-use templates

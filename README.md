@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛠️ Ready-to-use templates
-- [NestJS starter](https://sevic.dev/nestjs-starter?ref=github) - NestJS template powered by Node.js, TypeScript, NestJS, and TypeORM
-- [Electron starter](https://sevic.dev/electron-starter?ref=github) - Electron template powered by Node.js, TypeScript, Electron, Next.js, and Tailwind CSS
-- [Next.js starter](https://sevic.dev/nextjs-starter?ref=github) - Next.js template powered by TypeScript, React, Next.js, and Tailwind CSS
-- [React Native starter](https://sevic.dev/react-native-starter?ref=github) - Android app template powered by React Native
+- [NestJS starter](https://sevic.dev/nestjs-starter?ref=github) - boilerplate powered by Node.js, TypeScript, NestJS, and TypeORM
+- [Electron starter](https://sevic.dev/electron-starter?ref=github) - boilerplate powered by Node.js, TypeScript, Electron, Next.js, and Tailwind CSS
+- [Next.js starter](https://sevic.dev/nextjs-starter?ref=github) - boilerplate powered by TypeScript, React, Next.js, and Tailwind CSS
+- [React Native starter](https://sevic.dev/react-native-starter?ref=github) - Android app boilerplate

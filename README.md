@@ -3,10 +3,10 @@
 #### :memo: Latest articles
 <!-- BLOG-POST-LIST:START -->
 - [Identifying missing variables in Handlebars templates](https://sevic.dev/notes/handlebars-template-missing-variables/)
+- [PDF generation with Gotenberg](https://sevic.dev/notes/pdf-generation-gotenberg/)
 - [Extending outdated TypeScript package declarations](https://sevic.dev/notes/extend-package-types/)
 - [Bun overview](https://sevic.dev/notes/bun-overview/)
 - [Integration with Notion API](https://sevic.dev/notes/notion-api-nodejs/)
-- [Upgrading React Native app to Android 13+](https://sevic.dev/notes/android-13-react-native-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🛠️ Ready-to-use templates

@@ -9,6 +9,8 @@
 - [Bun overview](https://sevic.dev/notes/bun-overview/)
 <!-- BLOG-POST-LIST:END -->
 
+:hammer_and_pick: [Blog posts demos](https://sevic.dev/demos)
+
 #### 🛠️ Ready-to-use templates
 - [NestJS starter](https://sevic.dev/nestjs-starter?ref=github) - boilerplate powered by Node.js, TypeScript, NestJS, and TypeORM
 

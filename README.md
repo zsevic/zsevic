@@ -2,11 +2,11 @@
 
 #### :memo: Latest articles
 <!-- BLOG-POST-LIST:START -->
+- [License key verification with Gumroad API](https://sevic.dev/notes/license-key-verification-gumroad-api/)
 - [Creating a custom GPT version of ChatGPT](https://sevic.dev/notes/custom-gpt-chatgpt/)
 - [PDF generation with Gotenberg](https://sevic.dev/notes/pdf-generation-gotenberg/)
 - [Identifying missing variables in Handlebars templates](https://sevic.dev/notes/handlebars-template-missing-variables/)
 - [Extending outdated TypeScript package declarations](https://sevic.dev/notes/extend-package-types/)
-- [Bun overview](https://sevic.dev/notes/bun-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 :hammer_and_pick: [Blog posts demos](https://sevic.dev/demos)

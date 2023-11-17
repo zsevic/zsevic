@@ -9,7 +9,7 @@
 - [Extending outdated TypeScript package declarations](https://sevic.dev/notes/extend-package-types/)
 <!-- BLOG-POST-LIST:END -->
 
-:hammer_and_pick: [Blog posts demos](https://sevic.dev/demos)
+:computer: [Codebase with demos from articles](https://sevic.dev/demos)
 
 #### 🛠️ Ready-to-use templates
 - [NestJS starter](https://sevic.dev/nestjs-starter?ref=github) - boilerplate powered by Node.js, TypeScript, NestJS, and TypeORM

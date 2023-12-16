@@ -19,3 +19,5 @@
 - [Next.js starter](https://sevic.dev/nextjs-starter?ref=github) - boilerplate powered by TypeScript, React, and Next.js
 
 - [React Native starter](https://sevic.dev/react-native-starter?ref=github) - Android app boilerplate
+
+> :arrow_right: Looking for a job as a Front-end engineer? Apply [here](https://app.recrooit.com/jobs/61fc33a8-beb1-40d1-aa53-1524bacf2d09/frontend-engineer-m-f-d-80-100-?r=ef301682).

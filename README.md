@@ -2,11 +2,11 @@
 
 #### :memo: Latest articles
 <!-- BLOG-POST-LIST:START -->
+- [Sending e-mails with Sendgrid](https://sevic.dev/notes/emails-sendgrid/)
 - [MongoDB containers with Docker Compose](https://sevic.dev/notes/mongodb-docker-compose/)
 - [Web scraping with cheerio](https://sevic.dev/notes/scraping-cheerio/)
 - [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
 - [Web scraping with jsdom](https://sevic.dev/notes/scraping-jsdom/)
-- [License key verification with Gumroad API](https://sevic.dev/notes/license-key-verification-gumroad-api/)
 <!-- BLOG-POST-LIST:END -->
 
 :computer: [Demos for articles](https://sevic.dev/demos)

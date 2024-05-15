@@ -8,5 +8,3 @@
 - [Sending e-mails with Sendgrid](https://sevic.dev/notes/emails-sendgrid/)
 - [MongoDB containers with Docker Compose](https://sevic.dev/notes/mongodb-docker-compose/)
 <!-- BLOG-POST-LIST:END -->
-
-:email: Subscribe to my [weekly newsletter](https://sevic.dev/newsletter)

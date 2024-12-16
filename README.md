@@ -11,5 +11,3 @@
 
 #### 🛠️ Ready-to-use templates
 - [NestJS starter](https://sevic.dev/nestjs-starter?ref=github) - boilerplate powered by Node.js, TypeScript, NestJS, and TypeORM
-
-- [Electron starter](https://sevic.dev/electron-starter?ref=github) - boilerplate powered by Node.js, TypeScript, Electron, and Next.js
